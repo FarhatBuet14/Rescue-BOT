@@ -3,3 +3,7 @@ It is a mechanical system of four wheeled car with two artificial hands. It has 
 
 # Video Link - 
 https://youtu.be/SeunymHm4Ak
+
+![okay.jpg](https://github.com/FarhatBuet14/Rescue-BOT/blob/master/Pics%20%26%20Videos/All/okay.jpg)
+
+
