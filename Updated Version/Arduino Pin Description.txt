@@ -1,0 +1,22 @@
+Right Hand:
+	Bottom - A5
+	Middle - A4
+	Up     - A3
+Left Hand:
+	Bottom - D2
+	Middle - D3
+	Up     - D4
+Right Sonar:
+	Trigger - A1
+	Echo    - A2
+Left Sonar:
+	Trigger - D6
+	Echo    - D5
+Forward Sonar:
+	Trigger - D12
+	Echo    - D13
+Motor Driver:
+	InA - D8
+	InB - D9
+	InC - D10
+	InD - D11
