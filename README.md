@@ -6,7 +6,7 @@ It is a mechanical system of four wheeled car with two artificial hands. It has 
 
 ![Final.jpg](https://github.com/FarhatBuet14/Rescue-BOT/blob/master/Pics%20%26%20Videos/Final.jpg)
 
-## Updated Version (With Hands) -- We are working on that
+## Updated Version With Hands (We are working on that)
 
 ![We%20are%20working%20on%20the%20hands.gif](https://github.com/FarhatBuet14/Rescue-BOT/blob/master/New%20and%20Updated%20Version/We%20are%20working%20on%20the%20hands.gif)
 
