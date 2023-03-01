@@ -9,7 +9,3 @@ It is a mechanical system of four wheeled car with two artificial hands. It has 
 ## Updated Version With Hands (We are working on that)
 
 ![We%20are%20working%20on%20the%20hands.gif](https://github.com/FarhatBuet14/Rescue-BOT/blob/master/Updated%20Version/We%20are%20working%20on%20the%20hands.gif)
-
-## Cost
-
-![Cost.JPG](https://github.com/FarhatBuet14/Rescue-BOT/blob/master/Pics%20%26%20Videos/Cost.JPG)
